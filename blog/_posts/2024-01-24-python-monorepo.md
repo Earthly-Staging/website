@@ -15,6 +15,10 @@ excerpt: |
     This article explains the benefits of using a monorepo setup in software development and provides a tutorial on how to build a monorepo with Python using build tools like Pants and Earthly. It covers topics such as project structure, setting up build files, running tests, fixing linting and formatting issues, and containerizing the project.
 ---
 **---
+This article explains how to set up a monorepo in Python. Earthly provides consistent and reproducible builds for Python developers using monorepos. [Learn more about Earthly](https://cloud.earthly.dev/login).
+---**
+
+**---
 This article explains how to set up a monorepo in Python. Earthly streamlines both build processes and CI workflows for monorepos. [Check it out](https://cloud.earthly.dev/login).
 ---**
 
