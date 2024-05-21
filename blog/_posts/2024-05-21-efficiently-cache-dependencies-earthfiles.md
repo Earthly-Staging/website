@@ -12,6 +12,8 @@ internal-links:
  - efficiently cache dependencies
  - efficiently cache dependencies in earthfiles
  - how to cache dependencies
+excerpt: |
+    Earthly users have reported real caching benefits, and optimizing the structure of Earthfiles can further improve caching and increase build speed. By copying files into the build context as late as possible and reusing dependencies, developers can make their builds faster and more efficient.
 ---
 
 One piece of consistent feedback we get from Earthly users is that the caching benefits are real. Users love that Earthly starts caching parts of their build automatically. You don't have to do anything to get it to work, and that will always be the case.
